@@ -1,4 +1,3 @@
 # sit_LR1
-23r
-1qe
 # устанавливаем docker
+Docker Desktop установливаем на ubuntu в соответствии с инструкцией: https://docs.docker.com/desktop/install/ubuntu/
