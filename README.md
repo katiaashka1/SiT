@@ -19,7 +19,20 @@ Docker Desktop установливаем на ubuntu в соответстви�
 
 Запустим образ:  
 
-`$ docker run -it --rm -d -p 8080:80 --name web nginx`
+`$ docker run -it --rm -d -p 8080:80 --name web nginx`  
+
+# Создаем HTML страницу 
+
+```<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Docker Nginx</title>
+</head>
+<body>
+  <h2>Hello world!</h2>
+</body>
+</html>```
 
 # Проверка работоспособности 
 
