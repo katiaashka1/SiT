@@ -18,4 +18,4 @@ Docker Desktop установливаем на ubuntu в соответстви�
 
 # Запуск базового веб-сервера
 
-<$ docker run -it --rm -d -p 8080:80 --name web nginx>
+`$ docker run -it --rm -d -p 8080:80 --name web nginx`
